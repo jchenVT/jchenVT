@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jchenVT Joseph Chen!
-- 👀 I’m interested in da code
 - 🌱 I’m currently learning microcontrollers
 - 💞️ I’m looking to collaborate on some embedded stuff or cool stuff
 - 📫 How to reach me: jchen20@vt.edu
